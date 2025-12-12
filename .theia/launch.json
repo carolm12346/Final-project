@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "gdb",
+      "request": "launch",
+      "name": "Debug Current Project",
+      "target": "/home/me/workspace/assignments/final-project/final-project-ex-1/bin/app",
+      "cwd": "/home/me/workspace/assignments/final-project/final-project-ex-1",
+      "preLaunchTask": "Build Current Project"
+    }
+  ]
+}
