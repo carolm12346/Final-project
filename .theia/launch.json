@@ -5,8 +5,8 @@
       "type": "gdb",
       "request": "launch",
       "name": "Debug Current Project",
-      "target": "/home/me/workspace/assignments/final-project/final-project-ex-1/bin/app",
-      "cwd": "/home/me/workspace/assignments/final-project/final-project-ex-1",
+      "target": "/home/me/workspace/bin/app",
+      "cwd": "/home/me/workspace",
       "preLaunchTask": "Build Current Project"
     }
   ]
